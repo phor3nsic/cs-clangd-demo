@@ -1,0 +1,4 @@
+{
+  "clangd.path": "./.vscode/clangd-wrapper.sh",
+  "clangd.arguments": ["--background-index"]
+}
